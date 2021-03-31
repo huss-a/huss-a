@@ -1,6 +1,6 @@
 #  About Me 😁
 
-Hello! My name is Hussain, and my goal is to become a Full Stack Web Developer. I started learning Programming with Python, I leanred how to make a discord bot in late October 2020, and I absuloutely loved it. Since then, I've moved on to Web Development and I couldn't be happier 😊
+Hello! My name is Hussain, and my goal is to become a Full Stack Web Developer. I started learning Programming with Python, I learned how to make a discord bot in late October 2020, and I absuloutely loved it. Since then, I've moved on to Web Development and I couldn't be happier 😊
 
 I'm currently working on a React Website to gain more expierience with the framework.
 
