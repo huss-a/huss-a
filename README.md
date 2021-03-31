@@ -1,16 +1,33 @@
-### Hi there 👋
+#  About Me 😁
 
-<!--
-**huss-a/huss-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Hussain, and my goal is to become a Full Stack Web Developer. I started learning Programming with Python, I leanred how to make a discord bot in late October 2020, and I absuloutely loved it. Since then, I've moved on to Web Development and I couldn't be happier 😊
 
-Here are some ideas to get you started:
+I'm currently working on a React Website to gain more expierience with the framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's my Skillset:
+* Python
+* C#
+* HTML5
+* CSS3
+* JavaScript (Incl. ES6+ Syntax, React JS and Vue JS)
+* NodeJS (Inlc. Express)
+* MongoDB (w/ Mongoose)
+
+### My Goals for 2021:
+* Get Really good at React JS, Express and C#
+* Learn React Native
+* Learn Next.js
+* Learn Rustlang
+* Learn PostgreSQL
+
+and many other things!
+
+Besides being a Web Dev, I am also an avid Aviation Enthusiast. I love Flight Simulators, going Plane Spotting etc. 🤩
+
+My Favourite Aircraft is the Airbus A350 Series 😁
+
+My Pronouns are he/him
+
+You can reach me via Email: hussaingoodboi@gmail.com
+
+Thank you for reading this far! Have an awesome day! :D
