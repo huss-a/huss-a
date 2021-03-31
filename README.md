@@ -29,7 +29,7 @@ My Pronouns are he/him
 
 You can reach me via Email: hussaingoodboi@gmail.com
 
-Thank you for reading this far! Have an awesome day! :D
+Thank you for reading this far! Have a great day! :D
 
 [![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=huss-a&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
