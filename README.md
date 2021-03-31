@@ -23,7 +23,6 @@ I'm currently working on a React Website to gain more expierience with the frame
 and many other things!
 
 Besides being a Web Dev, I am also an avid Aviation Enthusiast. I love Flight Simulators, going Plane Spotting etc. 🤩
-
 My Favourite Aircraft is the Airbus A350 Series 😁
 
 My Pronouns are he/him
