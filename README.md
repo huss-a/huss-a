@@ -17,7 +17,6 @@ I'm currently working on a React Website to gain more expierience with the frame
 * Get Really good at React JS, Express and C#
 * Learn React Native
 * Learn Next.js
-* Learn Rustlang
 * Learn PostgreSQL
 * ~~Learn TypeScript~~
 
