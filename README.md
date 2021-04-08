@@ -19,6 +19,7 @@ I'm currently working on a React Website to gain more expierience with the frame
 * Learn Next.js
 * Learn PostgreSQL
 * ~~Learn TypeScript~~
+* Learn GraphQL
 
 and many other things!
 
