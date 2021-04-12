@@ -9,16 +9,16 @@ I'm currently working on a React Website to gain more expierience with the frame
 * C#
 * HTML5
 * CSS3
-* JavaScript (Incl. ES6+ Syntax, React JS and Vue JS)
+* JavaScript (Incl. ES6+ Syntax, React JS w/ Next.js)
 * NodeJS (Inlc. Express)
 * MongoDB (w/ Mongoose)
 
 ### My Goals for 2021:
 * Get Really good at React JS, Express and C#
 * Learn React Native
-* Learn Next.js
+* ~~Learn Next.js~~
 * Learn PostgreSQL
-* ~~Learn TypeScript~~
+* Learn TypeScript
 * Learn GraphQL
 
 and many other things!
