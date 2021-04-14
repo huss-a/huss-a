@@ -10,6 +10,7 @@ I'm currently working on a React Website to gain more expierience with the frame
 * HTML5
 * CSS3
 * JavaScript (Incl. ES6+ Syntax, React JS w/ Next.js)
+* TypeScript
 * NodeJS (Inlc. Express)
 * MongoDB (w/ Mongoose)
 
@@ -18,7 +19,7 @@ I'm currently working on a React Website to gain more expierience with the frame
 * Learn React Native
 * ~~Learn Next.js~~
 * Learn PostgreSQL
-* Learn TypeScript
+* ~~Learn TypeScript~~
 * Learn GraphQL
 
 and many other things!
