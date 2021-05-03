@@ -2,7 +2,7 @@
 
 Hello! My name is Hussain, and my goal is to become a Full Stack Web Developer. I started learning Programming with Python, I learned how to make a discord bot in late October 2020, and I absuloutely loved it. Since then, I've moved on to Web Development and I couldn't be happier 😊
 
-I'm currently working on a React Website to gain more expierience with the framework.
+The usual development environment I work in is the Windows Subsystem For Linux (WSL 2), with Ubuntu
 
 ### Here's my Skillset:
 * Python
@@ -13,6 +13,7 @@ I'm currently working on a React Website to gain more expierience with the frame
 * TypeScript
 * NodeJS (Inlc. Express)
 * MongoDB (w/ Mongoose)
+* Docker
 
 ### My Goals for 2021:
 * Get Really good at React JS, Express and C#
