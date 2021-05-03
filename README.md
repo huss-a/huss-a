@@ -11,12 +11,12 @@ The usual development environment I work in is the Windows Subsystem For Linux (
 * CSS3
 * JavaScript (Incl. ES6+ Syntax, React JS w/ Next.js)
 * TypeScript
-* NodeJS (Inlc. Express)
-* MongoDB (w/ Mongoose)
+* NodeJS (Incl. Express)
+* MongoDB (w/ Mongoose in Node and pymongo in Python)
 * Docker
 
 ### My Goals for 2021:
-* Get Really good at React JS, Express and C#
+* Get Really good at Next.js, Express and C#
 * Learn React Native
 * ~~Learn Next.js~~
 * Learn PostgreSQL
