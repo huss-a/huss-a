@@ -7,23 +7,15 @@ The usual development environment I work in is the Windows Subsystem For Linux (
 ### Here's my Skillset:
 * Python
 * C#
-* HTML5
-* CSS3
-* JavaScript (Incl. ES6+ Syntax, React JS w/ Next.js)
+* HTML5, CSS3
+* JavaScript (w/ React)
 * TypeScript
 * NodeJS (Incl. Express)
 * MongoDB (w/ Mongoose in Node and pymongo in Python)
+* PostgreSQL
+* TypeORM
+* Dart & Flutter
 * Docker
-
-### My Goals for 2021:
-* Get Really good at Next.js, Express and C#
-* Learn React Native
-* ~~Learn Next.js~~
-* Learn PostgreSQL
-* ~~Learn TypeScript~~
-* Learn GraphQL
-
-and many other things!
 
 Besides being a Web Dev, I am also an avid Aviation Enthusiast. I love Flight Simulators, going Plane Spotting etc. 🤩
 My Favourite Aircraft is the Airbus A350 Series 😁
