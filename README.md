@@ -11,6 +11,7 @@ The usual development environment I work in is the Windows Subsystem For Linux (
 * JavaScript (w/ React)
 * TypeScript
 * NodeJS (Incl. Express)
+* Rust
 * MongoDB (w/ Mongoose in Node and pymongo in Python)
 * PostgreSQL
 * TypeORM
